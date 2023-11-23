@@ -1,0 +1,1 @@
+MVC: Model (database) - View (html) - Controller
